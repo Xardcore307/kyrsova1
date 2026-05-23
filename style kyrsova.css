@@ -1,0 +1,30 @@
+body{
+	background-image:url("https://preview.redd.it/router-wallpapers-v0-4tna1wqmp7261.png?width=640&crop=smart&auto=webp&s=b99784c9f3041dde487c5ac9dbfaa5c8aed6199b");
+	background-size:cover;
+	background-repeat: no-repeat;
+	font-family: Arial black
+}
+p{
+	color: white;
+}
+ul{
+	color: white;
+}
+h2{
+	color: orange;
+}
+a{
+	color: red;
+}
+.a{
+	display:inline-block;
+	
+}
+.rtx{
+	color: yellow;
+	text-decoration: none;
+}
+.b{
+	border: 10px solid black;
+	margin: 10px;
+}
